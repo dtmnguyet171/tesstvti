@@ -84,7 +84,7 @@ export default function Root() {
           </div>
           <div className="data-res">
             <h4 style={{ color: "blue" }}>
-              <NavLink to={`data`}>Click to send data</NavLink>
+              <NavLink to={`data`}>Click to send data hi</NavLink>
             </h4>
           </div>
           {/* other code */}
